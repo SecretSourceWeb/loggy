@@ -1,3 +1,5 @@
+# loggy
+Log messages as custom posts in WordPress.
 # README #
 
 THIS REQUIRES PHP 5.3 MINIMUM AND THAT YOU HAVE COMPOSER INSTALLED
